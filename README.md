@@ -15,7 +15,7 @@ connect.php:  is used to connect the php pages to the database.
 
 
 
-Database has 3 columns 1 for the direction 1 for the state and 1 for the entry which is always.
+Database has 3 columns 1 for the direction 1 for the state and 1 for the entry which is always 1.
 
 
 
